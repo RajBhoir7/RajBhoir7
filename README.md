@@ -1,11 +1,11 @@
 ![MasterHead](https://www.webspreadtech.com/images/python-banner.jpg)
 <h1 align="center">Hi 👋, I'm Raj Bhoir</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Web developer from India</h3>
 <br>
 <img alt="coding"  width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"  style="align;center">
 <br>
 
-- 🌱 I’m currently learning **PYTHON FULL STACK DEVLOPER**
+- 🌱 I’m currently learning **PYTHON FULL STACK DEVELOPER**
 
 - 📫 How to reach me **bhoirraj872@gmail.com**
 
