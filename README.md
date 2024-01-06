@@ -5,7 +5,7 @@
 <img alt="coding"  width="400" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"  style="align;center">
 <br>
 
-- 🌱 I’m currently learning **PYTHON FULL STACK DEVELOPER**
+- 🌱 I’m currently learning **PYTHON FULL STACK DEVELOPMENT**
 
 - 📫 How to reach me **bhoirraj872@gmail.com**
 
